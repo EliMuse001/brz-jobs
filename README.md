@@ -1,3 +1,3 @@
 # brz-jobs
 
-#First Commit on the repo
+# For the project, see: https://github.com/brzprojects/brz-jobs
